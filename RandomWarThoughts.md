@@ -1,0 +1,13 @@
+## Some Random Thoughts to Start...
+
+### Attackers have the following advantages...
+1.  They select where they are attacking.  This is crucial, because the defense must then react to what the offense is doing.
+1. They have more access to siege equipment and tools to help them win the war.  Whereas the castles are emplaced, the offensive team can place anywhere.
+1. Access to potions...swiftness and elemental immunity.  These are crucial to taking points.  Elemental immunity more so, because to take a point, one must group on a point.  That immunity can mean the difference between winning a point and losing.  
+
+
+### What we are doing wrong as attackers
+1.  We are zerging points.  This is akin to brute force attacks.  Our focus is also to outnumber them on points.  I understand why, but I think we aren't utilizing our greatest advantage.  Which is point 1 from above.  Instead of zerging to a point, I advocate a feint to a location to position the enemy that is advantageous to us.
+1. IMO, we still have people that are focusing on kills and score rather than objectives.  I saw way less of them in war than the last, but I still see people fighting in-between points to get kills.  I truly think that killing defenders is actually an advantage for the defenders.  Why you ask?  When they respawn, they are reset to the fort to go to the directed location of our zerg route.  We shouldn't focus on killing...we need to focus on getting them out of position.
+1. We aren't using elemental immunity potion enough.  I think when we are winning a point, we need to pop them to prevent us from getting damaged from AOE spells.
+1. IMO, we are doing respawns wrong.  What do I mean?  Going back to point 1, the greatest advantage we have with attackers is the selection and timing of where we go.  By having respawners zerg to a location one-by-one, we make it easier for defense to counter because we can zerg respawners as well.  Instead, what I advocate is we let respawners group up into 10-15 man groups and then zerg.  Remember, it only takes a couple seconds to take a point if we have numbers.  The goal is to prevent the defense from knowing where we are going to force them to defend multiple points.  By slowing down the rate at which we attack, it forces the defense to spread thinner at points and allows us to attack in greater numbers.  This in turn puts the defense at a disadvantage as they must move to the point we are attacking.  
