@@ -8,7 +8,7 @@
 
 ## Phases
 ### Assignments
-1.  Squads 4-10 Zerg C.  Goal is not to kill enemy, but to position the offense badly.  
+1.  Squads 4-10 Zerg C.  Goal is not to kill enemy, but to position the defenders badly.  
 1. Squads 1-3...after 30 seconds of staying in camp wipe B and take it.  
 
 ### Summary
